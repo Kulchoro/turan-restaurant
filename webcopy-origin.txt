@@ -1,0 +1,396 @@
+Uri: https://marivanna.ru/
+File Name: C:\Downloaded Web Sites\marivanna.ru\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/bitrix/js/main/core/css/core.min.css?15770247122854
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\js\main\core\css\core.min.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/cache/css/s1/marivanna/page_e8a20f33f2befbb7dac706b03ee4023a/page_e8a20f33f2befbb7dac706b03ee4023a_v1.css?157727649310488
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\cache\css\s1\marivanna\page_e8a20f33f2befbb7dac706b03ee4023a\page_e8a20f33f2befbb7dac706b03ee4023a_v1.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/cache/css/s1/marivanna/template_fbd91a28531f69711f4004e9f088e26a/template_fbd91a28531f69711f4004e9f088e26a_v1.css?157727649345131
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\cache\css\s1\marivanna\template_fbd91a28531f69711f4004e9f088e26a\template_fbd91a28531f69711f4004e9f088e26a_v1.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/appUI.css
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\appUI.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/app.css?3
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\app.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/animation.css
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\animation.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/responsive.css?3
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\responsive.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/select2.min.css
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\select2.min.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/about/
+File Name: C:\Downloaded Web Sites\marivanna.ru\about\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/menu/
+File Name: C:\Downloaded Web Sites\marivanna.ru\menu\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/news/
+File Name: C:\Downloaded Web Sites\marivanna.ru\news\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/contacts/
+File Name: C:\Downloaded Web Sites\marivanna.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/msk/
+File Name: C:\Downloaded Web Sites\marivanna.ru\msk\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.az/
+File Name: C:\Downloaded Web Sites\marivanna.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/en/
+File Name: C:\Downloaded Web Sites\marivanna.ru\en\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/vacancy/
+File Name: C:\Downloaded Web Sites\marivanna.ru\vacancy\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/partners/
+File Name: C:\Downloaded Web Sites\marivanna.ru\partners\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/delivery/
+File Name: C:\Downloaded Web Sites\marivanna.ru\delivery\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/news/24-oktyabrya-uzhin-v-ramkakh-proekta-ginza-to-eat/
+File Name: C:\Downloaded Web Sites\marivanna.ru\news\24-oktyabrya-uzhin-v-ramkakh-proekta-ginza-to-eat\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/news/31-oktyabrya-igra-v-mafiyu-priurochennaya-k-khellouinu/
+File Name: C:\Downloaded Web Sites\marivanna.ru\news\31-oktyabrya-igra-v-mafiyu-priurochennaya-k-khellouinu\index.htm
+Content Type: text/html
+
+Uri: https://marivanna.ru/news/sbornye-korporativy/
+File Name: C:\Downloaded Web Sites\marivanna.ru\news\sbornye-korporativy\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/restoran.marivanna
+File Name: C:\Downloaded Web Sites\marivanna.ru\restoran.marivanna.html
+Content Type: text/html
+
+Uri: https://marivanna.ru/bitrix/js/main/core/core.min.js?1577276350246515
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\js\main\core\core.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/js/main/jquery/jquery-1.8.3.min.js?157702471393637
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\js\main\jquery\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/js/altasib.feedback/jquery.maskedinput/jquery.maskedinput.min.js?15770247134312
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\js\altasib.feedback\jquery.maskedinput\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/cache/js/s1/marivanna/template_d8313d1bf09266424959e2acabb74062/template_d8313d1bf09266424959e2acabb74062_v1.js?157727649318494
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\cache\js\s1\marivanna\template_d8313d1bf09266424959e2acabb74062\template_d8313d1bf09266424959e2acabb74062_v1.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/cache/js/s1/marivanna/page_6936fcbc28e4fd616da79a81238b1fc5/page_6936fcbc28e4fd616da79a81238b1fc5_v1.js?1577276493114632
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\cache\js\s1\marivanna\page_6936fcbc28e4fd616da79a81238b1fc5\page_6936fcbc28e4fd616da79a81238b1fc5_v1.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/logo_black.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\logo_black.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/logo_white.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\logo_white.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/soc/fb.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\soc\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/soc/In.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\soc\In.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/soc/yt.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\soc\yt.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/soc/vk.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\soc\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/img1.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\img1.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/img2.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/img1Mask.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\img1Mask.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/key.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\key.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/img1.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/img2Mask.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\img2Mask.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/846/846c4143dc5059600e330f8785df8bc6.jpeg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\846\846c4143dc5059600e330f8785df8bc6.jpeg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/fc1/fc10cbd65f61ac5ba2b35d7dc54f3301.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\fc1\fc10cbd65f61ac5ba2b35d7dc54f3301.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/638/63842e44e8f220ec9dfaffe378180cb6.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\638\63842e44e8f220ec9dfaffe378180cb6.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/tools/captcha.php?captcha_sid=0ec69c49c35f55899d0a81f72650609a
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\tools\captcha.php.jpeg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/lib/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\lib\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/jquery.swiper.umd.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\jquery.swiper.umd.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/jquery.viewportchecker.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\jquery.viewportchecker.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/plugins/select2.min.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\plugins\select2.min.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/map.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\map.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/js/app.js
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\js\app.js
+Content Type: application/javascript
+
+Uri: https://marivanna.ru/bitrix/js/main/core/images/panel/top-panel-sprite-2.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\js\main\core\images\panel\top-panel-sprite-2.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/components/altasib/feedback.form/table/images/afbf_danger-sign.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\components\altasib\feedback.form\table\images\afbf_danger-sign.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/components/altasib/feedback.form/table/images/afbf_check-box.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\components\altasib\feedback.form\table\images\afbf_check-box.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/components/altasib/feedback.form/table/images/icon_reload.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\components\altasib\feedback.form\table\images\icon_reload.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/components/altasib/feedback.form/table/images/icon_error.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\components\altasib\feedback.form\table\images\icon_error.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/components/altasib/feedback.form/table/images/icon_file.png
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\components\altasib\feedback.form\table\images\icon_file.png
+Content Type: image/png
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Regular-Web.eot
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Regular-Web.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Regular-Web.eot?
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Regular-Web-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Regular-Web.woff2
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Regular-Web.woff2
+Content Type: font/woff2
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Regular-Web.woff
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Regular-Web.woff
+Content Type: font/woff
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Regular-Web.ttf
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Regular-Web.ttf
+Content Type: application/octet-stream
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Bold-Web.eot
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Bold-Web.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Bold-Web.eot?
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Bold-Web-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Bold-Web.woff2
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Bold-Web.woff2
+Content Type: font/woff2
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Bold-Web.woff
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Bold-Web.woff
+Content Type: font/woff
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Bold-Web.ttf
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Bold-Web.ttf
+Content Type: application/octet-stream
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Medium-Web.eot
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Medium-Web.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Medium-Web.eot?
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Medium-Web-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Medium-Web.woff2
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Medium-Web.woff2
+Content Type: font/woff2
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Medium-Web.woff
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Medium-Web.woff
+Content Type: font/woff
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/Graphik-Medium-Web.ttf
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\Graphik-Medium-Web.ttf
+Content Type: application/octet-stream
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/AustinCyr-Medium.eot
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\AustinCyr-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/AustinCyr-Medium.eot?
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\AustinCyr-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/AustinCyr-Medium.woff
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\AustinCyr-Medium.woff
+Content Type: font/woff
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/css/fonts/AustinCyr-Medium.ttf
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\css\fonts\AustinCyr-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/arrow_prev.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\arrow_prev.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/Close.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\Close.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/arrow_small_white.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\arrow_small_white.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/arrow_small.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\arrow_small.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/key.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\key.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/bitrix/templates/marivanna/img/ico/back_arrow.svg
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\templates\marivanna\img\ico\back_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://marivanna.ru/upload/iblock/9b3/9b300e89eff144089261ac32c407adf7.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\9b3\9b300e89eff144089261ac32c407adf7.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/dcb/dcbb80a8a1175fc6da1fe60649cfc818.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\dcb\dcbb80a8a1175fc6da1fe60649cfc818.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/c75/c75606b3c7d0726e8f5faed9158a3c9a.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\c75\c75606b3c7d0726e8f5faed9158a3c9a.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/8ac/8ac2def34ca4ff4b5a57d96e54f9b8a8.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\8ac\8ac2def34ca4ff4b5a57d96e54f9b8a8.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/upload/iblock/52a/52a7f3a268a6f380468fe142987b4b22.jpg
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\52a\52a7f3a268a6f380468fe142987b4b22.jpg
+Content Type: image/jpeg
+
+Uri: https://marivanna.ru/bitrix/cache/css/s1/marivanna/page_604ac8d1d9cd8148b1a7a2a91114261f/page_604ac8d1d9cd8148b1a7a2a91114261f_v1.css?15772766801086
+File Name: C:\Downloaded Web Sites\marivanna.ru\bitrix\cache\css\s1\marivanna\page_604ac8d1d9cd8148b1a7a2a91114261f\page_604ac8d1d9cd8148b1a7a2a91114261f_v1.css
+Content Type: text/css
+
+Uri: https://marivanna.ru/upload/iblock/c65/c65f40af13e64b0a883c11f55778dcca.pdf
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\c65\c65f40af13e64b0a883c11f55778dcca.pdf
+Content Type: application/pdf
+
+Uri: https://marivanna.ru/upload/iblock/6ab/6ab259a72b12a31c4ec499928c78960e.pdf
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\6ab\6ab259a72b12a31c4ec499928c78960e.pdf
+Content Type: application/pdf
+
+Uri: https://marivanna.ru/upload/iblock/e1e/e1e1b7db50119829e888f57338691b67.pdf
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\e1e\e1e1b7db50119829e888f57338691b67.pdf
+Content Type: application/pdf
+
+Uri: https://marivanna.ru/upload/iblock/a25/a25c70e449883e256e4ffda31afa16fe.pdf
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\a25\a25c70e449883e256e4ffda31afa16fe.pdf
+Content Type: application/pdf
+
+Uri: https://marivanna.ru/upload/iblock/7aa/7aa364d8177d1ae53d45c7d67d2b6362.pdf
+File Name: C:\Downloaded Web Sites\marivanna.ru\upload\iblock\7aa\7aa364d8177d1ae53d45c7d67d2b6362.pdf
+Content Type: application/pdf
+
+Uri: https://www.instagram.com/marivanna_spb/
+File Name: C:\Downloaded Web Sites\marivanna.ru\marivanna_spb\index.htm
+Content Type: text/html
+
+Uri: https://yandex.kz/maps/213/moscow/?ll=37.595833%2C55.762617&mode=search&ol=geo&ouri=ymapsbm1:%2F%2Fgeo%3Fll%3D37.595840%252C55.762619%26spn%3D0.001000%252C0.001000%26text%3D%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F%252C%2520%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B0%252C%2520%25D0%25A1%25D0%25BF%25D0%25B8%25D1%2580%25D0%25B8%25D0%25B4%25D0%25BE%25D0%25BD%25D1%258C%25D0%25B5%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%2520%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B5%25D1%2583%25D0%25BB%25D0%25BE%25D0%25BA%252C%252010%25D0%2590%2520&z=17
+File Name: C:\Downloaded Web Sites\marivanna.ru\maps\213\moscow\index.htm
+Content Type: text/html
+
+Uri: https://ginzadelivery.ru/
+File Name: C:\Downloaded Web Sites\marivanna.ru\index-2.htm
+Content Type: text/html
+
