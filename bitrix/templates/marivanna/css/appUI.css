@@ -640,7 +640,7 @@ th {padding: 0}
 	display: -moz-flex;
 	display: -ms-flexbox;
 	display: flex;
-
+	justify-content: center;
 	margin-left: -10px;
 	margin-right: -10px;
 
@@ -2686,4 +2686,5 @@ li.fancybox-thumbs-loading {
 	.fancybox-container--thumbs .fancybox-caption-wrap {
 		right: 0;
 	}
+	
 }

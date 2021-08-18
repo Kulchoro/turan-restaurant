@@ -276,7 +276,7 @@
 		-ms-flex-order: -1;
 		order: -1;
 	}
-
+	
 	.collgLast {
 		-webkit-box-ordinal-group: 2;
 		-webkit-order: 1;
@@ -498,7 +498,7 @@
 		left: 0;
 		bottom: 0;
 		z-index: 1000;
-
+		color: #fff;
 		overflow: hidden;
 		overflow-y: auto;
 		-webkit-overflow-scrolling: touch;
