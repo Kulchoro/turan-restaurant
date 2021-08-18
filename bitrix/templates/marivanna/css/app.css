@@ -797,6 +797,19 @@ body {
 	color: #FFFFFF;
 }
 
+.presentation{
+	margin-top: 50px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.presentation .presenBtn{
+	border: #311F1B solid;
+	margin: 25px;
+	width: 250px;
+	height: 50px;
+	border-radius: 10px;
+}
 .pageTitle.withSlider {
 	position: absolute;
 	width: 100%;
