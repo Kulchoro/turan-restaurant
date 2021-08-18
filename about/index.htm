@@ -115,17 +115,17 @@
 			<div class="swiper-wrapper">
 				<div class="swiper-slide" id="bx_3218110189_133">
 					<div class="aboutSlideItem" style="background-image: url('../bitrix/templates/marivanna/img/imgAb.jpg');
-						background-size: cover; opacity: 0.9;">
+						background-size: cover;">
 					</div>
 				</div>
 				<div class="swiper-slide" id="bx_3218110189_132">
 					<div class="aboutSlideItem"
-						style="background-image: url('../bitrix/templates/marivanna/img/imgAb2.jpg'); opacity: 0.9;">
+						style="background-image: url('../bitrix/templates/marivanna/img/imgAb2.jpg'); background-size: cover;">
 					</div>
 				</div>
 				<div class="swiper-slide" id="bx_3218110189_49">
 					<div class="aboutSlideItem"
-						style="background-image: url('../bitrix/templates/marivanna/img/imgAb3.jpg'); opacity: 0.9;">
+						style="background-image: url('../bitrix/templates/marivanna/img/imgAb3.jpg');background-size: cover; ">
 					</div>
 				</div>
 
@@ -197,7 +197,7 @@
 			<div class="swiper-wrapper">
 				<div class="swiper-slide" id="bx_3218110189_133">
 					<div class="aboutSlideItem" style="background-image: url('../bitrix/templates/marivanna/img/terrace.jpg');
-						background-size: cover; opacity: 0.9;">
+						background-size: cover; opacity: 0.999;">
 					</div>
 				</div>
 				
@@ -244,6 +244,7 @@
 				
 			</div>
 		</section>
+
 	</main> <!-- Подвал -->
 	<footer class="footer">
 		<div class="container">
@@ -283,6 +284,19 @@
 
 	<script src="../bitrix/templates/marivanna/js/map.js"></script>
 	<script src="../bitrix/templates/marivanna/js/app.js"></script>
+	<script type="text/javascript">
+		(function () {
+			var options = {
+				whatsapp: "+7 778 631 16 77", // WhatsApp number
+				call_to_action: "Отправьте нам сообщение", // Call to action
+				position: "right", // Position may be 'right' or 'left'
+			};
+			var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+			s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+			var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		})();
+	</script>
 </body>
 
 </html>

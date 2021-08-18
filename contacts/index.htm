@@ -43,6 +43,7 @@
 	<link rel="stylesheet" href="../bitrix/templates/marivanna/css/responsive.css?3">
 	<link rel="stylesheet" href="../bitrix/templates/marivanna/css/select2.min.css">
 	<link rel="shortcut icon" href="img/ico/favicon.ico">
+
 </head>
 
 <body>
@@ -51,7 +52,7 @@
 		<div class="container">
 			<div class="row rowMiddle">
 				<div class="col colAuto">
-					<a href="index.htm" class="logo headerLogo">
+					<a href="../index.htm" class="logo headerLogo">
 						<img src="../bitrix/templates/marivanna/img/logo_black.png" alt="" title="">
 					</a>
 				</div>
@@ -138,36 +139,40 @@
 					<div class="col col6 colsm12">
 						<div class="addressGroup anim">
 							<h3 class="contactsTitle">Место и часы работы</h3>
-							<div class="footContactsItem">
-								<a target="_blank" href="https://2gis.kz/almaty/firm/70000001035135116" 
-								style="color: #D22F1F;">
-									г.Алматы ул. Рабат,18 </a>
-							</div>
-							<div class="footContactsItem">
-								<a target="_blank" href="https://2gis.kz/almaty/geo/9430047375026372"
-								style="color: #D22F1F;">
-									г.Алматы ул. Маркелова, 23 </a>
-							</div>
+
+
 							<div class="contactsItem red">
 								<a href="tel:+77786311677" class="tel">+7 778 631 16 77</a> </div>
 							<div class="contactsItem">
 								Ежедневно с 11:00 до 23:00 </div>
 						</div>
 					</div>
-					
+
 				</div>
 			</div>
 		</section>
 	</main>
 	<div class="contactMap">
-	<iframe style="margin-bottom:20px;"
-		src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Алматы рабат 18&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-		width="100%" height="300"></iframe>
+		<div class="footContactsItem">
+			<a target="_blank" href="https://2gis.kz/almaty/firm/70000001035135116"
+				style="color: #D22F1F; font-size: 25px; text-align: center;margin-bottom: 20px;">
+				г.Алматы ул. Рабат,18 </a></div>
 
-	<iframe style="margin-bottom:20px;"
-		src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=43.289409, 76.896717&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-		width="100%" height="300"></iframe>
+		<iframe style="margin-bottom:20px;"
+			src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Алматы рабат 18&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+			width="100%" height="300"></iframe>
+
+		<div class="footContactsItem">
+			<a target="_blank" href="https://2gis.kz/almaty/geo/9430047375026372"
+				style="color: #D22F1F; font-size: 25px; text-align: center;margin-bottom: 20px; ">
+				г.Алматы ул. Маркелова, 23 </a></div>
+
+		<iframe style="margin-bottom:20px;"
+			src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=43.289409, 76.896717&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+			width="100%" height="300"></iframe>
+
 	</div>
+	
 	<!-- Подвал -->
 	<footer class="footer">
 		<div class="container">
@@ -208,6 +213,19 @@
 
 	<script src="../bitrix/templates/marivanna/js/map.js"></script>
 	<script src="../bitrix/templates/marivanna/js/app.js"></script>
+	<script type="text/javascript">
+		(function () {
+			var options = {
+				whatsapp: "+7 778 631 16 77", // WhatsApp number
+				call_to_action: "Отправьте нам сообщение", // Call to action
+				position: "right", // Position may be 'right' or 'left'
+			};
+			var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+			s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+			var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		})();
+	</script>
 </body>
 
 </html>
